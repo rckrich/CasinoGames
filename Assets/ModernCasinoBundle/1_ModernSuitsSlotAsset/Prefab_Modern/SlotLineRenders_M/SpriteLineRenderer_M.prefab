@@ -24,12 +24,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3166277939045922285}
+  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -19.416185, y: -1.1808805, z: -0.5225065}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &6184146448611435614
 MonoBehaviour:
@@ -70,10 +71,11 @@ MonoBehaviour:
     atime6: 0
     atime7: 0
     m_Mode: 0
+    m_ColorSpace: -1
     m_NumColorKeys: 3
     m_NumAlphaKeys: 4
   material: {fileID: 2100000, guid: 4f37b379ff70aca4fac088adecd39ffd, type: 2}
   lineTexture: {fileID: 2800000, guid: 2a31888c779d34c44bb1f668410d2f27, type: 3}
-  dotTexture: {fileID: 2800000, guid: bbafa5b7480df2d41b62f6124f194029, type: 3}
+  dotTexture: {fileID: 2800000, guid: 3946bf07322e208439662493b9f00579, type: 3}
   useBehColor: 1
   sortingOrder: 110
