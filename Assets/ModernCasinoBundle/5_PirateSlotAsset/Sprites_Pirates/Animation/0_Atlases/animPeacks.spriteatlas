@@ -28,6 +28,7 @@ SpriteAtlas:
       allowAlphaSplitting: 0
       enableRotation: 0
       enableTightPacking: 0
+      enableAlphaDilation: 0
     secondaryTextureSettings: {}
     variantMultiplier: 1
     packables:
@@ -55,10 +56,34 @@ SpriteAtlas:
     - {fileID: 2800000, guid: 119e13143473900479c33acc2a4bea81, type: 3}
     - {fileID: 2800000, guid: ec68599deb7ef7a41b76121087a9486a, type: 3}
     - {fileID: 2800000, guid: f342f91a2050cdd49ae626ae743de493, type: 3}
-    totalSpriteSurfaceArea: 3840000
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 98847f00a7b4a3245a2a493b17df1326: 21300000
+    - ef099a3073d6b474ca646cbd418be796: 21300000
+    - 7ad20af157e9e3247be102a159ae29b8: 21300000
+    - e1d04a1240c56be43962c7c76c41d12c: 21300000
+    - 141b0843446eaeb48a2c99e9f38c8c30: 21300000
+    - 119e13143473900479c33acc2a4bea81: 21300000
+    - 9c7705a51c93f2f48946a8a144f8796a: 21300000
+    - abe223e5ee357264887ff1f3dde6d0f1: 21300000
+    - 53c7ad56a946f654195abcee7900f2a0: 21300000
+    - c3c53867dfd43ef48b0b1570d3d7f4e2: 21300000
+    - c3aab1d7ab9f4014e9788c66a9122405: 21300000
+    - 31969629979c81e439b996b2cf8d7198: 21300000
+    - f342f91a2050cdd49ae626ae743de493: 21300000
+    - 9d65177a15259cd47be33c70103b33f3: 21300000
+    - 274e9b7bd4b12e24fb4603712c151ab1: 21300000
+    - 48a2d5bcf975e6d4f941063bbcea4442: 21300000
+    - 1aa4083d6b85ece4dbfdcc34d76d37cd: 21300000
+    - ec68599deb7ef7a41b76121087a9486a: 21300000
+    - 841bd0ad0c5633e48a92e0c59913f6d4: 21300000
+    - 6cfeeabd756c0ee4fa2ff77df166f5cd: 21300000
+    - 19a4fbbe8e0635d4fa3241c8a83fe871: 21300000
+    - 23331ffe815ed8948ae0ac6deb6e968a: 21300000
+    - 438a5f4ff7e5f874caeecf06de784075: 21300000
+    - d1b6099fc99c2654c879da3110eeee8b: 21300000
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
   - {fileID: 21300000, guid: 98847f00a7b4a3245a2a493b17df1326, type: 3}
