@@ -16099,7 +16099,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ade820d1fd084394fa71de200fd6dfb5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  defCoinsCount: 500
+  defCoinsCount: 5000
   defFBCoinsCount: 100
   useLevelUpReward: 1
   levelUpReward: 3000
