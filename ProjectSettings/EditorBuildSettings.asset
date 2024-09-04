@@ -39,6 +39,6 @@ EditorBuildSettings:
     path: Assets/ModernCasinoBundle/1_ModernSuitsSlotAsset/Scenes_Modern/11_Slot_2-3-4-3-2.unity
     guid: d7d56cea871ed484ab4831dfc9021e92
   - enabled: 1
-    path: Assets/DragonCasinoBundle/Scenes_Dragon/Dragon_Slot_3X5.unity
+    path: Assets/IrelandCasino/Scene_Ireland/Ireland_Slot_3X5.unity
     guid: 1155de2d99c08480a8ba5b70d633c3ef
   m_configObjects: {}
