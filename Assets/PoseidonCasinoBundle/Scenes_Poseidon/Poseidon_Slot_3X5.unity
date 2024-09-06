@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.4507001, g: 0.50065315, b: 0.5748881, a: 1}
+  m_IndirectSpecularColor: {r: 0.45069987, g: 0.5006525, b: 0.57488734, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -5120,7 +5120,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 038aaad479d3ca249a8ae14c4d66316b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  music: {fileID: 8300000, guid: e757812b2d8e0f44888030a405daf22a, type: 3}
+  music: {fileID: 8300000, guid: b4945be1274d54a408bed96dab9e8a29, type: 3}
   buttonClick: {fileID: 8300000, guid: e333190a16aedcd4d9cfcd166801bb88, type: 3}
   openWindow: {fileID: 8300000, guid: 5ad0b751a39ec544696b6df4b9084f50, type: 3}
   closeWindow: {fileID: 8300000, guid: 5ad0b751a39ec544696b6df4b9084f50, type: 3}
@@ -13723,8 +13723,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 4281995264
+  m_fontColor: {r: 0, g: 0.061941072, b: 0.22745098, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
