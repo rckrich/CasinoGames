@@ -1072,7 +1072,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 0.8
-  m_Text: Any 5 scatter on the screen appears fortune wheel minigame
+  m_Text: Any 5 scatter on the screen appears fortune wheel minigame.
 --- !u!1 &1100145988702948
 GameObject:
   m_ObjectHideFlags: 0
@@ -2477,7 +2477,7 @@ MonoBehaviour:
     m_VerticalOverflow: 1
     m_LineSpacing: 0.8
   m_Text: Any line with three or more free spins give the player  the same amount
-    free spins .
+    free spins.
 --- !u!1 &1285750105452544
 GameObject:
   m_ObjectHideFlags: 0
@@ -7625,7 +7625,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 0.8
-  m_Text: "Wild can be used with any symbols on the reels\r to create winning combinations\n(exclude
+  m_Text: "Wild can be used with any symbols on the reels\r to create winning combinations.\n(exclude
     first reel)"
 --- !u!1 &1847634156867452
 GameObject:
